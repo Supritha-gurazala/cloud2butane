@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cloud2butane
 
 A small Go CLI tool that converts a limited cloud-init `write_files` configuration into a valid Flatcar Butane YAML configuration.
@@ -45,3 +46,6 @@ This project intentionally supports only:
 Unsupported fields such as `permissions`, `owner`, `append`, and `encoding` are ignored.
 
 
+=======
+# cloud2butane
+>>>>>>> a76489332917fba1a673deac75b197aad785ded9
