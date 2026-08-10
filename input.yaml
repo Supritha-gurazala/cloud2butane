@@ -1,0 +1,3 @@
+write_files: 
+  - path: /etc/example.conf 
+    content: hello world
